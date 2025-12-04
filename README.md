@@ -1,4 +1,4 @@
-##this is just all my coursework from CPSC224 at gonzaga university
+## this is just all my coursework from CPSC224 at gonzaga university
 
 we use maven
 
