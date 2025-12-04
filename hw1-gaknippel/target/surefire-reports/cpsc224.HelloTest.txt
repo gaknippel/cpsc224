@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: cpsc224.HelloTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.030 s -- in cpsc224.HelloTest
+cpsc224.HelloTest.basicHelloMessageCall -- Time elapsed: 0.016 s

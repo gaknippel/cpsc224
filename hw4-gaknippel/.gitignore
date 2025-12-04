@@ -1,0 +1,39 @@
+
+# General files
+*~
+.DS_Store
+.vscode
+.classpath
+.project
+.settings/
+
+# MS Word docs
+*.docx
+*.doc
+*.odt
+
+# Maven
+target/
+.mvn/
+pom.xml.tag
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+
+# Standard Java
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+replay_pid*
